@@ -1,0 +1,25 @@
+Initialize engine version: 4.1.2f1 (911c7369eeac)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdx32.dll 8.14.10.1930]
+    Renderer: Intel(R) Q35 Express Chipset Family
+    Vendor:   Intel
+    VRAM:     64 MB (via DXGI)
+    Caps:     Shader=20 DepthRT=0 NativeDepth=0 NativeShadow=0 DF16=0 DF24=0 INTZ=0 RAWZ=0 NULL=0 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\duozhao\Documents\PA5_Unity3D_part2\PA5_Unity3D_part2\PA5_teapot_Unity3D_part2_Duo_Zhao_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\duozhao\Documents\PA5_Unity3D_part2\PA5_Unity3D_part2\PA5_teapot_Unity3D_part2_Duo_Zhao_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\duozhao\Documents\PA5_Unity3D_part2\PA5_Unity3D_part2\PA5_teapot_Unity3D_part2_Duo_Zhao_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\duozhao\Documents\PA5_Unity3D_part2\PA5_Unity3D_part2\PA5_teapot_Unity3D_part2_Duo_Zhao_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\duozhao\Documents\PA5_Unity3D_part2\PA5_Unity3D_part2\PA5_teapot_Unity3D_part2_Duo_Zhao_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\duozhao\Documents\PA5_Unity3D_part2\PA5_Unity3D_part2\PA5_teapot_Unity3D_part2_Duo_Zhao_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+- Completed reload, in  0.371 seconds
+desktop: 1280x1024 75Hz; virtual: 1280x1024 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+HDR RenderTexture format is not supported on this platform. This camera will render without HDR buffers.
+ 
+(Filename:  Line: 1928)
+
+Platform assembly: C:\Users\duozhao\Documents\PA5_Unity3D_part2\PA5_Unity3D_part2\PA5_teapot_Unity3D_part2_Duo_Zhao_Data\Managed\Boo.Lang.dll (this message is harmless)
